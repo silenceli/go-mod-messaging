@@ -23,11 +23,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/edgexfoundry/go-mod-messaging/v3/internal/pkg/mqtt"
-	"github.com/edgexfoundry/go-mod-messaging/v3/internal/pkg/nats"
-	"github.com/edgexfoundry/go-mod-messaging/v3/internal/pkg/nats/jetstream"
-	"github.com/edgexfoundry/go-mod-messaging/v3/internal/pkg/redis"
-	"github.com/edgexfoundry/go-mod-messaging/v3/pkg/types"
+	"github.com/silenceli/go-mod-messaging/v3/internal/pkg/mqtt"
+	"github.com/silenceli/go-mod-messaging/v3/internal/pkg/nats"
+	"github.com/silenceli/go-mod-messaging/v3/internal/pkg/nats/jetstream"
+	"github.com/silenceli/go-mod-messaging/v3/internal/pkg/redis"
+	"github.com/silenceli/go-mod-messaging/v3/pkg/types"
 )
 
 const (

@@ -19,13 +19,13 @@ import (
 	"github.com/edgexfoundry/go-mod-core-contracts/v3/dtos"
 	commonDTO "github.com/edgexfoundry/go-mod-core-contracts/v3/dtos/common"
 	"github.com/edgexfoundry/go-mod-core-contracts/v3/dtos/responses"
-	"github.com/edgexfoundry/go-mod-messaging/v3/messaging/mocks"
+	"github.com/silenceli/go-mod-messaging/v3/messaging/mocks"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/edgexfoundry/go-mod-messaging/v3/pkg/types"
+	"github.com/silenceli/go-mod-messaging/v3/pkg/types"
 )
 
 const (

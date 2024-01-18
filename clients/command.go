@@ -20,8 +20,8 @@ import (
 	"github.com/edgexfoundry/go-mod-core-contracts/v3/dtos/responses"
 	edgexErr "github.com/edgexfoundry/go-mod-core-contracts/v3/errors"
 
-	"github.com/edgexfoundry/go-mod-messaging/v3/messaging"
-	"github.com/edgexfoundry/go-mod-messaging/v3/pkg/types"
+	"github.com/silenceli/go-mod-messaging/v3/messaging"
+	"github.com/silenceli/go-mod-messaging/v3/pkg/types"
 )
 
 type CommandClient struct {

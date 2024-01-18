@@ -15,8 +15,8 @@
 package redis
 
 import (
-	"github.com/edgexfoundry/go-mod-messaging/v3/internal/pkg"
-	"github.com/edgexfoundry/go-mod-messaging/v3/pkg/types"
+	"github.com/silenceli/go-mod-messaging/v3/internal/pkg"
+	"github.com/silenceli/go-mod-messaging/v3/pkg/types"
 )
 
 // OptionalClientConfiguration contains additional configuration properties which can be provided via the
